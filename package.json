@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jalbert-anthropic.github.io/two-ex",
+  "homepage": "https://johnalb12.github.io/two-ex",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
